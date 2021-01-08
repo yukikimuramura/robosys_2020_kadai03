@@ -22,7 +22,7 @@ $catkin_make
 5.rosを起動する
 $roscore
 6.ディレクトリに入る
-$cd ~/catkin_ws/src/robosys_2020_kadai03/
+$cd ~/catkin_ws/src/robosys_2020_kadai03/spricts
 7.実行できるようにそれぞれのプログラムのパーミッションを設定する
 $chmod 755 ques.py       
 $chmod 755 ans.py     
