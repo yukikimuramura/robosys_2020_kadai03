@@ -26,8 +26,8 @@ $cd ~/catkin_ws/src/robosys_2020_kadai03/
 $chmod 755 ques.py       
 $chmod 755 ans.py     
 8.それぞれ別の端末でques.py,ans.pyを実行する
-$roscore ques.py
-$roscore ans.py
+$rosrun mypkg ques.py
+$rosrun mypkg ans.py
 
 ```
 ### Demo
